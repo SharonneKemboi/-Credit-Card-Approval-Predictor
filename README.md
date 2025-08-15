@@ -5,7 +5,7 @@
 
 ---
 
-## **📌 Overview**
+## ** Overview**
 Commercial banks receive a large number of credit card applications daily. Many of these applications are rejected for reasons such as:  
 - High loan balances  
 - Low income levels  
@@ -17,7 +17,7 @@ In this project, we build an **automatic credit card approval predictor** using 
 
 ---
 
-## **📂 Dataset**
+## ** Dataset**
 We will use the **Credit Card Approval dataset** from the **UCI Machine Learning Repository**.  
 
 The structure of the project is as follows:  
@@ -29,7 +29,7 @@ The structure of the project is as follows:
 
 ---
 
-## **⚙ Techniques Used**
+## **Techniques Used**
 ✔ Data Cleaning and Preprocessing  
 ✔ Feature Engineering  
 ✔ Exploratory Data Analysis  
