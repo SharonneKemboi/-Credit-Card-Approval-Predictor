@@ -1,7 +1,7 @@
 # **Credit Card Approval Predictor**  
 *Automating credit card approval using Machine Learning for improved efficiency and accuracy.*
 
-![Credit Card](credit cards.png)
+
 
 ---
 
@@ -12,11 +12,11 @@ By automating the decision-making process, financial institutions can **save tim
 ---
 
 ## ** Features**
-✔ Predict credit card approval based on applicant details  
-✔ Data preprocessing and feature engineering  
-✔ Model training and evaluation (Logistic Regression, Random Forest, etc.)  
-✔ Performance metrics: Accuracy, Precision, Recall, F1-Score  
-✔ Easy-to-use script for predictions  
+- Predict credit card approval based on applicant details  
+- Data preprocessing and feature engineering  
+- Model training and evaluation (Logistic Regression, Random Forest, etc.)  
+- Performance metrics: Accuracy, Precision, Recall, F1-Score  
+- Easy-to-use script for predictions  
 
 ---
 
@@ -30,14 +30,14 @@ The dataset contains information such as:
 
 ---
 
-## **🛠 Tech Stack**
+## ** Tech Stack**
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Modeling:** Logistic Regression, Random Forest, Gradient Boosting  
 
 ---
 
-## **📊 Model Performance**
+## ** Model Performance**
 | Model                | Accuracy | F1-Score |
 |----------------------|----------|----------|
 | Logistic Regression  | 85%      | 0.83     |
