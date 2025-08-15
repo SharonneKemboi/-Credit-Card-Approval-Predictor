@@ -1,6 +1,7 @@
 # **Credit Card Approval Predictor**  
 *Automating credit card approval using Machine Learning for improved efficiency and accuracy.*
 
+![Credit Card](credit%20cards.png)
 
 
 ---
