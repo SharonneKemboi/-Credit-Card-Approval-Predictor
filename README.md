@@ -1,17 +1,17 @@
 # **Credit Card Approval Predictor**  
 *Automating credit card approval using Machine Learning for improved efficiency and accuracy.*
 
-![Credit Card](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Credit_card.jpg/640px-Credit_card.jpg)
+![Credit Card](credit cards.png)
 
 ---
 
-## **📌 Overview**
+## ** Overview**
 This project demonstrates how **Machine Learning (ML)** can be used to predict whether a credit card application should be **approved** or **rejected** based on historical applicant data.  
 By automating the decision-making process, financial institutions can **save time**, **reduce human bias**, and **improve accuracy** in evaluating applicants.
 
 ---
 
-## **🚀 Features**
+## ** Features**
 ✔ Predict credit card approval based on applicant details  
 ✔ Data preprocessing and feature engineering  
 ✔ Model training and evaluation (Logistic Regression, Random Forest, etc.)  
@@ -20,7 +20,7 @@ By automating the decision-making process, financial institutions can **save tim
 
 ---
 
-## **📂 Dataset**
+## ** Dataset**
 The dataset contains information such as:  
 - **Personal details** (Age, Gender, Income, etc.)  
 - **Employment & Financial history**  
@@ -63,13 +63,13 @@ The dataset contains information such as:
 
 ---
 
-## **📈 Future Enhancements**
+## ** Future Enhancements**
 - Deploy as a **Flask/Django Web App**  
 - Add **real-time API integration** for banking systems  
 - Implement **Explainable AI (XAI)** for better decision transparency  
 
 ---
 
-## **📜 License**
+## ** License**
 This project is licensed under the **MIT License** – feel free to use and modify.
 
